@@ -2,3 +2,12 @@
 //    a. Integer.
 //    b. Floating point number.
 //    c. Character.
+
+#include<stdio.h>
+#include<conio.h>
+
+int main(){
+    float a = 3.0 + 1;
+    printf("The value of a is %f",a);
+    return 0;
+}
