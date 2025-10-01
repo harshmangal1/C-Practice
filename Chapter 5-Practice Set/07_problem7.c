@@ -7,7 +7,7 @@
 
 int main(){
     int n = 3;
-    for (int i =0;i<4;i++){
+    for (int i =0;i<3;i++){
         // This loop runs 0 to 3;
         // if i = 0 --> print 1 star
         // if i = 1 --> print 3 stars
